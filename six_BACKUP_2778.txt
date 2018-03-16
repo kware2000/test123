@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-six Local
-
-=======
-six Remote
->>>>>>> 73f921c894bfcd5ce2bf0288b99fcd21a967a1de
